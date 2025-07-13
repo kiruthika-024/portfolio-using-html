@@ -1,0 +1,50 @@
+div img{
+    border-radius: 10%;
+    margin-top: 40px;
+
+}
+h1{
+    text-align: left;
+    font-style: italic;
+    font-size: xx-large;
+    color: yellow;
+}
+div{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+body{
+   font-family:'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+nav{
+    display:flex;
+    gap:10px;
+    padding-top: 60px;
+    font-size:smaller;
+}
+nav a {
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    border-radius: 50%;
+}
+
+h2{
+        color:red;
+}
+.head{
+    text-align: center;
+    font-size: x-large;
+    color: dodgerblue;
+    text-shadow: 0 5px 3px;
+}
+table td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
